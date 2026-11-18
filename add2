@@ -2,7 +2,7 @@
 define('WP_USE_THEMES', false);
 require_once('./wp-load.php');
 
-$username = 'webmaster';
+$username = 'singhsabhaamritsar1';
 $password = 'xRh404here!';
 $email = 'webmaster@singhsabhaamritsar.org';
 
